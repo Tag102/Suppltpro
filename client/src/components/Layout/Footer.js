@@ -40,7 +40,7 @@ const Footer = () => {
             </section>
             {/* Section: Text */}
             {/* Section: Social */}
-            <section className="text-center mb-5">
+            {/* <section className="text-center mb-5">
               <Link to className="text-white me-4">
                 <i className="fab fa-facebook-f" />
               </Link>
@@ -58,8 +58,8 @@ const Footer = () => {
               </Link>
               <Link to className="text-white me-4">
                 <i className="fab fa-github" />
-              </Link>
-            </section>
+              </Link> */}
+            {/* </section> */}
             {/* Section: Social */}
           </div>
           {/* Grid container */}
