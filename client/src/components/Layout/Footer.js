@@ -38,29 +38,6 @@ const Footer = () => {
               </div>
               {/* Grid row*/}
             </section>
-            {/* Section: Text */}
-            {/* Section: Social */}
-            {/* <section className="text-center mb-5">
-              <Link to className="text-white me-4">
-                <i className="fab fa-facebook-f" />
-              </Link>
-              <Link to className="text-white me-4">
-                <i className="fab fa-twitter" />
-              </Link>
-              <Link to className="text-white me-4">
-                <i className="fab fa-google" />
-              </Link>
-              <Link to className="text-white me-4">
-                <i className="fab fa-instagram" />
-              </Link>
-              <Link to className="text-white me-4">
-                <i className="fab fa-linkedin" />
-              </Link>
-              <Link to className="text-white me-4">
-                <i className="fab fa-github" />
-              </Link> */}
-            {/* </section> */}
-            {/* Section: Social */}
           </div>
           {/* Grid container */}
           {/* Copyright */}
