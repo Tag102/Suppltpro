@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Poppins:wght@300;400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Kalam:wght@300;400&display=swap');
 
 * {
   margin: 0;
@@ -11,7 +11,8 @@
 
 /* //navbar css */
 .navbar {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Caveat', cursive;
+  font-family: 'Kalam', cursive;
   font-size: 17px;
   line-height: 26px;
   text-transform: uppercase;
