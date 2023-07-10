@@ -16,7 +16,7 @@ It is Ecommerce store used to sell gym equipments and Supplements built with Mer
 
 
 ## Demo
-This Website is depolyed [click here](https://linktodocumentation)
+This Website is depolyed [click here](https://colorful-calf-hosiery.cyclic.app/)
 ## Run Locally
 
 Clone the project
