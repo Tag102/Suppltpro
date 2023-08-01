@@ -1,17 +1,22 @@
 
 # SupplyPro
 
-It is Ecommerce store used to sell gym equipments and Supplements built with Mern Stack
--
-- user can view all products
-- user can view single product
-- user can search products and view products by category and price range
-- user can add to cart 
-- user can register & sign in
-- admin can create, edit, update & delete products
-- admin can create categories
-- admin can view ordered products
-- admin can change the status of a product (processing, shipped, delivered, etc.)
+The Ecommerce store, constructed using the Mern Stack, specializes in selling gym equipment and supplements. It offers various functionalities for both users and administrators:
+
+For Users:
+
+- Users can explore the entire product catalog.
+- They can view detailed information about a specific product.
+- Users have the ability to search for products based on categories and price ranges.
+- It allows users to add selected items to their shopping cart.
+- Users can create an account and log in.
+
+For Administrators:
+
+- Admins have the privilege to manage the product inventory by creating, editing, updating, and deleting products.
+- They can also establish product categories.
+- Admins can access information about ordered products.
+- They have the authority to change the status of products (e.g., processing, shipped, delivered, etc.).
 
 
 
